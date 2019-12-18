@@ -62,7 +62,7 @@ div#topright{
 	justify-content: flex-end;
 	margin-top: -1em;
 }
-i#memory{
+#creditcounter{
 	display: flex;
 	margin-right: 7em;
 	border-right: solid grey 0.5px;
